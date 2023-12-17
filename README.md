@@ -1,2 +1,6 @@
 # Lista-exercicios-Python
- lista com alguns códigos em pyhton para estudo
+Durante meus Estudos em Python meus projetos estaraõ diponivel nesse diretório
+
+
+Os projetos serão desde o Inicio do meus estudos, com projeto mais simples em Python, até os mais complexos
+
